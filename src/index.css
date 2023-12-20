@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Italianno&display=swap');
+.flip{
+        -webkit-transform: scaleX(-1);
+        transform: scaleX(-1);
+}
+
+.soft{
+        font-family: 'Italianno', cursive;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
